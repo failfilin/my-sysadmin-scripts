@@ -1,11 +1,16 @@
 #! /usr/bin/env bash
 exec >> monitor.log
 exec 2>&1
+count=0
+while [[ $count -lt 3 ]]; do
 current_time=$(date +"%Y-%m-%d %H:%M:%S")
 echo "----------$current_time---------"
 free -h
 echo "---------------"
 df -h
-echo "---------------"
+echo "---------------"  
 uptime
-echo "-------------------------------" >> monitor.log
+echo "-------------------------------"
+((count++))
+sleep 5
+done
