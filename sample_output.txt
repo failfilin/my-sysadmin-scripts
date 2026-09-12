@@ -1,0 +1,69 @@
+----------2026-09-12 21:11:57---------
+               total        used        free      shared  buff/cache   available
+Mem:           943Mi       296Mi       324Mi       1.1Mi       401Mi       646Mi
+Swap:             0B          0B          0B
+---------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           189M  1.1M  188M   1% /run
+/dev/sda1       3.9G  3.1G  746M  81% /
+tmpfs           472M     0  472M   0% /dev/shm
+efivarfs        256K   15K  242K   6% /sys/firmware/efi/efivars
+tmpfs           472M     0  472M   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/sda13      891M  221M  608M  27% /boot
+/dev/sda15       98M  6.5M   91M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs            95M  8.0K   95M   1% /run/user/1001
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs            95M  8.0K   95M   1% /run/user/1000
+---------------
+ 21:11:57 up  5:18,  2 users,  load average: 0.06, 0.06, 0.07
+-------------------------------
+----------2026-09-12 21:12:02---------
+               total        used        free      shared  buff/cache   available
+Mem:           943Mi       297Mi       323Mi       1.1Mi       401Mi       645Mi
+Swap:             0B          0B          0B
+---------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           189M  1.1M  188M   1% /run
+/dev/sda1       3.9G  3.1G  746M  81% /
+tmpfs           472M     0  472M   0% /dev/shm
+efivarfs        256K   15K  242K   6% /sys/firmware/efi/efivars
+tmpfs           472M     0  472M   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/sda13      891M  221M  608M  27% /boot
+/dev/sda15       98M  6.5M   91M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs            95M  8.0K   95M   1% /run/user/1001
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs            95M  8.0K   95M   1% /run/user/1000
+---------------
+ 21:12:02 up  5:18,  2 users,  load average: 0.05, 0.05, 0.07
+-------------------------------
+----------2026-09-12 21:12:07---------
+               total        used        free      shared  buff/cache   available
+Mem:           943Mi       297Mi       323Mi       1.1Mi       401Mi       645Mi
+Swap:             0B          0B          0B
+---------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           189M  1.1M  188M   1% /run
+/dev/sda1       3.9G  3.1G  746M  81% /
+tmpfs           472M     0  472M   0% /dev/shm
+efivarfs        256K   15K  242K   6% /sys/firmware/efi/efivars
+tmpfs           472M     0  472M   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/sda13      891M  221M  608M  27% /boot
+/dev/sda15       98M  6.5M   91M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs            95M  8.0K   95M   1% /run/user/1001
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs            95M  8.0K   95M   1% /run/user/1000
+---------------
+ 21:12:07 up  5:18,  2 users,  load average: 0.04, 0.05, 0.07
+-------------------------------
