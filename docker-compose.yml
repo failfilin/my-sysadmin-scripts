@@ -1,0 +1,5 @@
+services:
+  ubuntu-script:
+    build: .
+    stdin_open: true
+    tty: true
